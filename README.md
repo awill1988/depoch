@@ -1,6 +1,6 @@
-# tdue
+# depoch
 
-Today's Date in UTC Epoch (tdue)
+Today's Date in UTC Epoch (depoch)
 
 This is a simple binary program that will:
 

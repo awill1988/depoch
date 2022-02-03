@@ -1,4 +1,4 @@
-prog := tdue
+prog := depoch
 
 debug ?=
 
